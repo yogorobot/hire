@@ -95,5 +95,6 @@ YOGO ROBOT Hire
 
 ![](images/5.jpeg)
 
-![](images/6.jpeg)
+#### 文末彩蛋
 
+![](images/7.gif)
