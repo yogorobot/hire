@@ -86,10 +86,9 @@ YOGO ROBOT Hire
 
 如果有 Stars 超过 500 的 前端 / Python / Golang 项目，我们直接聊聊吧！
 
-### 联系
+#### 联系
 
 [wangchao@yogorobot.com](mailto:wangchao@yogorobot.com)
-[hit9@icloud.com](mailto:hit9@icloud.com)
 
 ### 04 全YOGO的人都在等你的简历..
 
