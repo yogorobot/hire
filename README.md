@@ -1,7 +1,7 @@
 YOGO ROBOT Hire
 ===============
 
-> 校招请移步这里 → → https://mp.weixin.qq.com/s/R6FBIIGPpGQdiPkXAdFZ_g
+> 校招请移步这里 → → https://github.com/yogorobot/campus2019/
 
 ![](images/1.jpeg)
 
